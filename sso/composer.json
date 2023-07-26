@@ -1,0 +1,17 @@
+{
+    "name": "php-connector/php-connector",
+    "description": "The php connector",
+    "type": "project",
+    "version": "1.0.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/poonamcholle/phpconnectorcomposer2.git"
+        }
+        
+    ],
+    "require": {
+        "php-connector/php-connector": "dev-master"
+    }
+  }
+  

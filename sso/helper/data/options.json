@@ -1,0 +1,32 @@
+{
+    "mo_saml_host_name": "https://login.xecurify.com",
+    "mo_saml_admin_email": "poonam.cholle@xecurify.com",
+    "mo_saml_admin_password": "",
+    "mo_saml_admin_pw": "69e01e1faba3b840c6676",
+    "mo_saml_admin_customer_key": "20574",
+    "mo_saml_admin_api_key": "eqdBW4xj1I4FDVXZAt1A2E1OasJYj0ZL",
+    "mo_saml_customer_token": "RyhFhAaA2iIsFV8A",
+    "mo_saml_free_version": 1,
+    "mo_saml_message": "Attribute Mapping details saved successfully",
+    "mo_saml_registration_status": "Existing User",
+    "saml_identity_name": "XpBAy",
+    "idp_entity_id": "https://login.xecurify.com/moas/319964/bd658771-3144-4958-acd7-9fa5723b947e",
+    "saml_login_url": "https://poonam24.xecurify.com/moas/broker/login/saml_login/319964/bd658771-3144-4958-acd7-9fa5723b947e",
+    "saml_login_binding_type": "HttpRedirect",
+    "saml_logout_url": "https://poonam24.xecurify.com/moas/broker/login/saml_logout/319964/bd658771-3144-4958-acd7-9fa5723b947e",
+    "saml_x509_certificate": "-----BEGIN CERTIFICATE-----\r\nMIIDGDCCAgCgAwIBAgIII/r6ZJXn5howDQYJKoZIhvcNAQELBQAwTDELMAkGA1UE\r\nBhMCSU4xEzARBgNVBAoTCm1pbmlPcmFuZ2UxEzARBgNVBAsTCm1pbmlPcmFuZ2Ux\r\nEzARBgNVBAMTCm1pbmlPcmFuZ2UwHhcNMjMwNzE3MTY0MTU4WhcNMzMwNzE0MTY0\r\nMTU4WjBMMQswCQYDVQQGEwJJTjETMBEGA1UEChMKbWluaU9yYW5nZTETMBEGA1UE\r\nCxMKbWluaU9yYW5nZTETMBEGA1UEAxMKbWluaU9yYW5nZTCCASIwDQYJKoZIhvcN\r\nAQEBBQADggEPADCCAQoCggEBAOet5Oty8wBwfVrnKIq+pkIpMgVnt/7YuPEGtdGb\r\nMBHUNhYZKIK4jQ3qsvOD+i0TAUPXl3TYOyb9ozbuMwzbM6nj6tWwMtXgRriFe+IH\r\n2Qk8dwr7wGCGzx+lbMd+RmTJIyYR1HDA43f8vBP7GHNm7pFpeU11XomM9vUH/0Yw\r\nvbH56B+nhMOZrcsx0NyJFdCQrYZBD61B7un1GiuayLhYrAHEJOCyGnyCskdr66Po\r\nbGGiDrToqcI4It7AOzocxa5wzW7Qq+Ff9PuR2L2gXhVpXtmB/Z22jMIUq+1+h9LS\r\nPZAIFWt3czuaKcycL+8DzUqgkjY0lxywzjbiVlsIAFa9pCkCAwEAATANBgkqhkiG\r\n9w0BAQsFAAOCAQEAYXF+5y4yXgoeXYRD1oeos+T7VHnAsawK6FfIz8VnCi+nLDtJ\r\nXIWN8xF+CJx1uImkSVYDjoja/mqxLIslJYhtaFGn5Ke7DtdxUPyYEalRy15TVHVd\r\nF8Tgd/SiVNx7SPQwmZCUw9BvFJ68kpLZcZgcyvH5a9M8nnKeo7gxOFYtGI/jiJXD\r\nONMOUGuoTEUAIo8VF1dUfbSvGMCeI41QJxXmBtua8gjmy21HqScZuVjwDZH6DqZN\r\nF1slFMaVDNZ2T0Mo76HBQqqsPZwksAQpR5fM33+H5H5XSAjJfEekl8ODsAPWOGSa\r\nDeBr6gx+PyyO4aaXteRtHNnZRQHiwvX72u9bwQ==\r\n-----END CERTIFICATE-----",
+    "force_authentication": false,
+    "sp_base_url": "https://localhost/sso",
+    "sp_entity_id": "https://localhost/sso/",
+    "acs_url": "https://localhost/sso/sso.php",
+    "single_logout_url": "https://localhost/sso/logout.php",
+    "saml_am_email": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+    "saml_am_username": "NameID\t",
+    "mo_saml_custom_attrs_mapping": {
+        "nameid": "NameID",
+        "Email": "email"
+    },
+    "application_url": "http://localhost/sso/resources/home.php",
+    "site_logout_url": "",
+    "session_index": "enaigcdnjmbpcjhmfbhlbnkmjameekppnanbjlfa"
+}
